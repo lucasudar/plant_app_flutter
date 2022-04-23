@@ -2,7 +2,7 @@
 
 Plant application on Flutter.
 
-![FurnitureApp](Plant_app.gif)
+![PlantApp](Plant_app.gif)
 
 ## Getting Started
 
